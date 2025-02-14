@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robot Arms | Sara Roos</title>
+    <link>http://localhost:1313/tags/robot-arms/</link>
+      <atom:link href="http://localhost:1313/tags/robot-arms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robot Arms</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Robot Arms</title>
+      <link>http://localhost:1313/tags/robot-arms/</link>
+    </image>
+    
+    <item>
+      <title>Reinforcement Learning Approach to Optimizing Profilometric Sensor Trajectories for Surface Inspection / Working paper&#34;</title>
+      <link>http://localhost:1313/publication/preprint/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

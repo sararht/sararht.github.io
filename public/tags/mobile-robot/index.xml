@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Robot | Sara Roos</title>
+    <link>http://localhost:1313/tags/mobile-robot/</link>
+      <atom:link href="http://localhost:1313/tags/mobile-robot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mobile Robot</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Mobile Robot</title>
+      <link>http://localhost:1313/tags/mobile-robot/</link>
+    </image>
+    
+    <item>
+      <title>Mobile robot localization in industrial environments using a ring of cameras and ArUco markers</title>
+      <link>http://localhost:1313/publication/conference-paper-2/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

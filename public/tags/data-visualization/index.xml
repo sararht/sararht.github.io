@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Visualization | Sara Roos</title>
+    <link>http://localhost:1313/tags/data-visualization/</link>
+      <atom:link href="http://localhost:1313/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Visualization</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Data Visualization</title>
+      <link>http://localhost:1313/tags/data-visualization/</link>
+    </image>
+    
+    <item>
+      <title>Interactive Visualization of Breast Cancer Cell Characteristics with D3js</title>
+      <link>http://localhost:1313/project/d3js/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/d3js/</guid>
+      <description>&lt;p&gt;Visualization of the characteristics of breast tumor cell samples using the D3.js library.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autodesk 3ds Max | Sara Roos</title>
+    <link>http://localhost:1313/tags/autodesk-3ds-max/</link>
+      <atom:link href="http://localhost:1313/tags/autodesk-3ds-max/index.xml" rel="self" type="application/rss+xml" />
+    <description>Autodesk 3ds Max</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Autodesk 3ds Max</title>
+      <link>http://localhost:1313/tags/autodesk-3ds-max/</link>
+    </image>
+    
+    <item>
+      <title>Animating a drone</title>
+      <link>http://localhost:1313/teaching/drone/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/drone/</guid>
+      <description>&lt;h2 id=&#34;-designing--animating-a-drone-my-cad-coursework-project-&#34;&gt;🚀 Designing &amp;amp; Animating a Drone: My CAD Coursework Project 🎮✈️&lt;/h2&gt;
+&lt;p&gt;As part of my fourth-year coursework in Industrial CAD Applications, I took on the challenge of designing and animating a quadcopter drone from scratch. Sounds cool, right? Here’s how it went! 👇&lt;/p&gt;
+&lt;h3 id=&#34;the-mission-build-a-drone-virtually&#34;&gt;The Mission: Build a Drone&amp;hellip; Virtually!&lt;/h3&gt;
+&lt;p&gt;The goal was to create a 3D model of a quadcopter using Autodesk Inventor, ensuring every component—from the motors to the telemetry module—was as close to real-world specs as possible. The structure was also optimized for 3D printing, so theoretically, this little guy could take off in real life! 🛠️🛸&lt;/p&gt;
+&lt;h3 id=&#34;bringing-it-to-life-&#34;&gt;Bringing It to Life 🎬&lt;/h3&gt;
+&lt;p&gt;After modeling, I moved the design into Autodesk 3ds Max to animate it in a simulated environment. This part wasn’t without its headaches—textures vanished, materials needed reworking, and let’s just say the first few flight attempts were&amp;hellip; unstable. 😅 But after some tweaking, I got a smooth animation that showcased the drone in action, dodging obstacles like a pro.&lt;/p&gt;
+&lt;h3 id=&#34;the-final-result-watch-it-in-action-&#34;&gt;The Final Result: Watch It in Action! 🎥🔥&lt;/h3&gt;
+&lt;p&gt;Rather than just talking about it, let me show you! Here’s the final animation of the drone in motion, featuring a mechanical breakdown and flight sequences. Let me know what you think! 👇👇&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Up94j0RLycA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h3 id=&#34;lessons-learned-&#34;&gt;Lessons Learned 🔍&lt;/h3&gt;
+&lt;p&gt;This project was a deep dive into CAD modeling, animation, and problem-solving—from structural design to overcoming software quirks. Plus, wrapping it all up with a rendered video in Da Vinci Resolve (with a killer soundtrack 🎵) was the cherry on top!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

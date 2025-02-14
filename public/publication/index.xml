@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Sara Roos</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Reinforcement Learning Approach to Optimizing Profilometric Sensor Trajectories for Surface Inspection / Working paper&#34;</title>
+      <link>http://localhost:1313/publication/preprint/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of Laser Profilometer Measurements in the Presence of Speckle Using Perlin Noise</title>
+      <link>http://localhost:1313/publication/journal-article/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Vision-based Approach for Unmanned Aerial Vehicles to Track Industrial Pipes for Inspection Tasks</title>
+      <link>http://localhost:1313/publication/conference-paper/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block Matching Mosaicing for Surface Inspection Using an Autonomous Mobile Robot</title>
+      <link>http://localhost:1313/publication/conference-paper-3/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile robot localization in industrial environments using a ring of cameras and ArUco markers</title>
+      <link>http://localhost:1313/publication/conference-paper-2/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

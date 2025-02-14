@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Sara Roos</title>
+    <link>http://localhost:1313/publication_types/paper-conference/</link>
+      <atom:link href="http://localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Paper-Conference</title>
+      <link>http://localhost:1313/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>A Vision-based Approach for Unmanned Aerial Vehicles to Track Industrial Pipes for Inspection Tasks</title>
+      <link>http://localhost:1313/publication/conference-paper/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block Matching Mosaicing for Surface Inspection Using an Autonomous Mobile Robot</title>
+      <link>http://localhost:1313/publication/conference-paper-3/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile robot localization in industrial environments using a ring of cameras and ArUco markers</title>
+      <link>http://localhost:1313/publication/conference-paper-2/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
