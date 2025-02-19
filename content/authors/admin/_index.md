@@ -182,34 +182,34 @@ skills:
         percent: 80
         icon: hero/wrench-screwdriver
 
- # - name: Hobbies
- #   color: '#eeac02'
- #   color_border: '#f0bf23'
- #   items:
- #     - name: Basketball
- #       description: ''
- #       percent: 60
- #       icon: person-simple-walk
- #     - name: Bouldering
- #       description: ''
- #       percent: 100
- #       icon: person-simple-walk
- #     - name: Running
- #       description: ''
- #       percent: 80
- #       icon: person-simple-walk
- #     - name: Triathlon
- #       description: ''
- #       percent: 80
- #       icon: person-simple-walk
- #     - name: Ski
- #       description: ''
- #       percent: 80
- #       icon: person-simple-walk
- #     - name: Surf
- #       description: ''
- #       percent: 80
- #       icon: person-simple-walk
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Basketball
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Bouldering
+        description: ''
+        percent: 100
+        icon: person-simple-walk
+      - name: Running
+        description: ''
+        percent: 80
+        icon: person-simple-walk
+      - name: Triathlon
+        description: ''
+        percent: 80
+        icon: person-simple-walk
+      - name: Ski
+        description: ''
+        percent: 80
+        icon: person-simple-walk
+      - name: Surf
+        description: ''
+        percent: 80
+        icon: person-simple-walk
 
 
 languages:
