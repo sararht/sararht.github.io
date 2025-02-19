@@ -1,7 +1,7 @@
 ---
 title: Interactive Visualization of Breast Cancer Cell Characteristics with D3js
 date: 2025-02-13
-external_link: https://github.com/sararht/d3js_cancer_cell_visualization
+external_link: https://sararht.github.io/d3js_cancer_cell_visualization/
 tags:
   - Data Visualization
   - D3js
