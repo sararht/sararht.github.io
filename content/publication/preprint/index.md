@@ -5,11 +5,11 @@ authors:
 - Mario Roos-Hoefgeest
 - Ignacio Alvarez
 - Rafael C. González
-date: "2024-09-05"
-doi: "https://doi.org/10.48550/arXiv.2409.03429"
+date: "2025-04-03"
+doi: "https://doi.org/10.3390/s25072271"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-05"
+publishDate: "2025-04-03"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -32,7 +32,7 @@ tags:
 - Laser triangulation
 
 featured: true
-url_pdf: https://arxiv.org/abs/2409.03429
+url_pdf: https://www.mdpi.com/1424-8220/25/7/2271
 url_code: ''
 url_dataset: ''
 url_poster: ''
