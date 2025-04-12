@@ -1,5 +1,5 @@
 ---
-title: Reinforcement Learning Approach to Optimizing Profilometric Sensor Trajectories for Surface Inspection / Working paper"
+title: Reinforcement Learning Approach to Optimizing Profilometric Sensor Trajectories for Surface Inspection"
 authors:
 - admin
 - Mario Roos-Hoefgeest

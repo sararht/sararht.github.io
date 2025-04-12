@@ -1,5 +1,5 @@
 ---
-title: "Realistic Three-Dimensional Defect Simulation for Deep Learning-Based Industrial Inspection Systems"
+title: "Realistic Three-Dimensional Defect Simulation for Deep Learning-Based Industrial Inspection Systems / Working paper"
 authors:
 - admin
 - Mario Roos-Hoefgeest
